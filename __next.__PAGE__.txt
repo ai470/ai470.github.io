@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[484,[],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-white px-5","children":["$","p",null,{"className":"text-center text-[18px] font-semibold text-black/60","children":"Здесь пока ничего нет"}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z5cxq1svIXfPWcQaXVH3K"}
+4:null
